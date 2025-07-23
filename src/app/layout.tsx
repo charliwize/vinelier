@@ -45,7 +45,7 @@ export const metadata: Metadata = {
       {
         url:      "https://vinelier.com/Logo/social-media-preview.png",
         width:    1200,
-        height:   640,
+        height:   630,
         alt:      "Discover your favourite Dish at Vinelier",
       },
     ]

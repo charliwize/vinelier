@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://vinelier.com/</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://vinelier.com/Images/sec1_image_food_2.png</image:loc>
+      <image:title>Discover Food by your Cravings - Vinelier</image:title>
+      <image:caption>Vinelier's dish-first dining platform homepage featuring delicious food imagery</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://vinelier.com/Logo/social-media-preview.png</image:loc>
+      <image:title>Vinelier - Dish-First Dining Platform</image:title>
+      <image:caption>Vinelier logo and brand preview for social media</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Section (accessible via anchor) -->
+  <url>
+    <loc>https://vinelier.com/#about</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Restaurant Section (accessible via anchor) -->
+  <url>
+    <loc>https://vinelier.com/#restaurant</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Section (accessible via anchor) -->
+  <url>
+    <loc>https://vinelier.com/#contact</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Privacy Policy Page -->
+  <url>
+    <loc>https://vinelier.com/privacy-policy</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Important files for AI and crawlers -->
+  <url>
+    <loc>https://vinelier.com/llms.txt</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://vinelier.com/robots.txt</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Logo and Brand Assets -->
+  <url>
+    <loc>https://vinelier.com/Logo/Logo.svg</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Key Food Images -->
+  <url>
+    <loc>https://vinelier.com/Images/sec3_image_food.png</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://vinelier.com/Images/sec4_image_rest.png</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Parallax Food Images -->
+  <url>
+    <loc>https://vinelier.com/Images/resimg-0.png</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://vinelier.com/Images/resimg-1.png</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://vinelier.com/Images/resimg-2.png</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://vinelier.com/Images/resimg-3.png</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

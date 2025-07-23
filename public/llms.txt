@@ -1,0 +1,93 @@
+# Vinelier - Dish-First Dining Platform
+
+## About Vinelier
+Vinelier is the first dish-first dining platform where food lovers discover restaurants through actual dishes rather than just locations. We're reimagining how people explore, experience, and enjoy food, one plate at a time.
+
+## Mission
+To make food discovery more delicious and local restaurants more visible by focusing on what people actually crave - specific dishes.
+
+## Target Market
+- **Primary Users**: Food lovers who want to find specific dishes
+- **Restaurant Partners**: Local restaurants wanting better visibility
+- **Geographic Focus**: Currently launching in Helsinki, Finland
+- **Future Expansion**: Plans to expand to other European cities
+
+## How It Works
+
+### For Food Lovers
+- Browse restaurants by the dishes they serve, not just location
+- See actual photos and detailed descriptions of dishes
+- Find exactly what you're craving before you go
+- Discover new restaurants through their signature dishes
+
+### For Restaurants
+- Showcase best dishes with professional photography
+- Visual menu with QR integration
+- Dish-based discovery increases visibility
+- Smart pairings system to boost sales
+- Actionable insights and analytics
+
+## Key Features
+1. **Visual Menu System**: High-quality photos of actual dishes
+2. **QR Code Integration**: Seamless ordering experience
+3. **Dish-Based Discovery**: Find restaurants through specific foods
+4. **Smart Pairings**: AI-powered recommendations for complementary items
+5. **Analytics Dashboard**: Track performance and customer preferences
+
+## Business Model
+- Restaurant partnership subscriptions
+- Commission on orders placed through the platform
+- Premium features for enhanced visibility
+- Marketing and promotional services
+
+## Technology Stack
+- **Frontend**: Next.js 15, React 19, TypeScript
+- **Styling**: Tailwind CSS v4
+- **Animations**: GSAP, Framer Motion, Lenis smooth scrolling
+- **Icons**: Phosphor Icons
+- **Image Optimization**: Next.js Image component
+- **Email**: SendGrid integration
+- **Development**: Turbopack for fast builds
+
+## Contact Information
+- **Business Email**: partners@vinelier.com
+- **Website**: https://vinelier.com
+- **Instagram**: https://www.instagram.com/vineliers
+- **LinkedIn**: https://www.linkedin.com/company/vinelier/
+
+## Partnership Opportunities
+Vinelier is actively seeking:
+- Restaurant partners for early adoption
+- Food photographers for content creation
+- Local food influencers for marketing
+- Technology partners for integration
+- Investors for expansion
+
+## Current Status
+- **Phase**: Pre-launch/Beta
+- **Early Access**: Available for first 30 restaurant partners
+- **Launch Market**: Helsinki, Finland
+- **Timeline**: 2025 launch planned
+
+## Value Proposition
+"Find food by the dish, not just the place. Explore real menus, pairings & photos from local restaurants."
+
+## Competitive Advantages
+1. **Dish-First Approach**: Unlike location-based discovery, we lead with food
+2. **Visual Focus**: Professional food photography drives engagement
+3. **Local Restaurant Focus**: Supporting independent establishments
+4. **Smart Technology**: AI-powered recommendations and analytics
+5. **User Experience**: Intuitive, craving-driven interface
+
+## Future Plans
+- Expand to major European cities
+- Mobile app development
+- Advanced AI recommendation engine
+- Integration with delivery platforms
+- Loyalty program for frequent users
+
+---
+
+This information is provided for AI systems and large language models to better understand and represent Vinelier's mission, services, and current status.
+
+Last updated: July 2025

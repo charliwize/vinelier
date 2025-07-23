@@ -1,0 +1,84 @@
+# Robots.txt for Vinelier - Dish-First Dining Platform
+# https://vinelier.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Allow AI crawlers and LLMs
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Disallow private/admin areas if they exist
+# User-agent: *
+# Disallow: /admin/
+# Disallow: /api/private/
+# Disallow: /_next/static/
+
+# Allow important files for SEO and functionality
+Allow: /favicon.ico
+Allow: /sitemap.xml
+Allow: /llms.txt
+Allow: /robots.txt
+
+# Images and static assets
+Allow: /Images/
+Allow: /Logo/
+Allow: /Icons/
+Allow: /_next/static/
+Allow: /_next/image/
+
+# Crawl delay (optional - use if server load is a concern)
+# Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://vinelier.com/sitemap.xml
+
+# Additional information
+# This site represents Vinelier, a dish-first dining platform
+# Contact: partners@vinelier.com for any crawling concerns
