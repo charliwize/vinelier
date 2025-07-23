@@ -1,6 +1,5 @@
 // app/privacy-policy/page.tsx
 
-import Navbar from "../Components/Navbar";
 
 export default function PrivacyPolicyPage() {
   return (
@@ -58,12 +57,12 @@ export default function PrivacyPolicyPage() {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">4. Your Rights</h2>
         <p className="mb-2">
-          Under GDPR (if you're in the EU), you have the right to:
+          Under GDPR (if you&apos;re in the EU), you have the right to:
         </p>
         <ul className="list-disc list-inside">
           <li>Access your data</li>
           <li>Correct inaccurate data</li>
-          <li>Delete your data ("right to be forgotten")</li>
+          <li>Delete your data (&quot;right to be forgotten&quot;)</li>
           <li>Withdraw consent at any time</li>
           <li>Request data portability</li>
         </ul>
