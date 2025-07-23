@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { MenuProvider } from "./context/MenuContext";
-
+import { Analytics } from "@vercel/analytics/next"
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -74,6 +74,7 @@ export default function RootLayout({
       >
           <MenuProvider>
             {children}
+            <Analytics />
           </MenuProvider>
       </body>
     </html>
