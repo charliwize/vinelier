@@ -18,7 +18,8 @@
 /out/
 
 # claude
-/.claude/
+.claude
+CLAUDE.md
 
 # production
 /build
